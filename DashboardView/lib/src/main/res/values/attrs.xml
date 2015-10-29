@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DashboardView">
+        <attr name="percent" format="integer" />
+        <attr name="pointerColor" format="color" />
+        <attr name="dialColor" format="color" />
+        <attr name="dialStartColor" format="color" />
+        <attr name="dialEndColor" format="color" />
+        <attr name="animTime" format="integer" />
+    </declare-styleable>
+</resources>
